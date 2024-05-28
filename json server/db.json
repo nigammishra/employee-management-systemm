@@ -1,0 +1,71 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "user": "James D. Young",
+      "username": "@JamesYoung",
+      "status": "InActive",
+      "location": "Brasil",
+      "profilePicture": "https://randomuser.me/api/portraits/men/41.jpg"
+    },
+    {
+      "id": "2",
+      "user": "Jerold K. Albright",
+      "username": "@JeroldAlbright",
+      "status": "Active",
+      "location": "Germany",
+      "profilePicture": "https://randomuser.me/api/portraits/men/30.jpg"
+    },
+    {
+      "id": "3",
+      "user": "William M. Oram",
+      "username": "@WilliamOram",
+      "status": "InActive",
+      "location": "Value3",
+      "profilePicture": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+      "id": "4",
+      "user": "William M. Oram",
+      "username": "@WilliamOram",
+      "status": "InActive",
+      "location": "Value3",
+      "profilePicture": "https://randomuser.me/api/portraits/men/20.jpg"
+    },
+    {
+      "id": "225f",
+      "username": "nigam",
+      "status": "active",
+      "location": "BBSR",
+      "profilePicture": "C:\\fakepath\\87206-yamaha-r1-yamaha-bikes-hd-4k-5k.jpg"
+    },
+    {
+      "id": "8667",
+      "username": "nigam",
+      "status": "inactive",
+      "location": "BBSR",
+      "profilePicture": "C:\\fakepath\\Screenshot 2024-04-19 120933.png"
+    },
+    {
+      "id": "5409",
+      "username": "nigam",
+      "status": "active",
+      "location": "BBSR",
+      "profilePicture": ""
+    },
+    {
+      "id": "1a88",
+      "username": "admin",
+      "status": "saccadsc",
+      "location": "scad",
+      "profilePicture": "C:\\fakepath\\87206-yamaha-r1-yamaha-bikes-hd-4k-5k.jpg"
+    },
+    {
+      "id": "a00a",
+      "username": "admin",
+      "status": "inactive",
+      "location": "BBSR",
+      "profilePicture": "C:\\fakepath\\about-us.png"
+    }
+  ]
+}
